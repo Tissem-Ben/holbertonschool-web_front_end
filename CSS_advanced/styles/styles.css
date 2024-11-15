@@ -1,0 +1,35 @@
+/* Style général */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+}
+
+/* Ajouter un peu d'espace pour l'image du logo */
+img.logo {
+    max-width: 100px;
+    margin-top: 20px;
+}
